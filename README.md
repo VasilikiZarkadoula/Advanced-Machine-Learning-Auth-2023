@@ -5,3 +5,7 @@ Assignments for Advanced Machine Learning cource on topics:
 • Multi-label and multi-instance data
 
 • Active learning and interpretability
+
+Aristotle Univeristy of Thessaloniki (AUTh)
+Advanced Machine Learning Course
+Authors: Kyriaki Potamopoulou, Vasiliki Zarkadoula
