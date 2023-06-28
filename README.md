@@ -6,9 +6,5 @@ Assignments for Advanced Machine Learning cource on topics:
 
 • Active learning and interpretability
 
-
-Aristotle Univeristy of Thessaloniki (AUTh) 
-
-Advanced Machine Learning Course
-
-Authors: Kyriaki Potamopoulou, Vasiliki Zarkadoula
+<br /> <br />
+Aristotle Univeristy of Thessaloniki (AUTh) <br /> Advanced Machine Learning Course <br /> Authors: Kyriaki Potamopoulou, Vasiliki Zarkadoula
